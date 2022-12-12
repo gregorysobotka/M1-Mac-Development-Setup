@@ -25,3 +25,7 @@ Notes (manual install):
 
 ### Mute microphone shortcut
 - https://medium.com/macoclock/how-in-the-bleep-do-i-mute-my-mic-anywhere-on-macos-d2fa1185b13
+
+
+###Apps
+- Better Touch Tool
